@@ -1,0 +1,12 @@
+# Material interno dos avaliadores — nunca versionar no repo do candidato
+_avaliacao/
+
+# Config local do Claude Code
+.claude/
+
+# Artefatos comuns (caso o gabarito/testes sejam rodados aqui dentro)
+bin/
+obj/
+node_modules/
+dist/
+*.db

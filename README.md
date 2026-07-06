@@ -5,12 +5,6 @@ de nível **júnior a pleno**. Ele foi desenhado para você mostrar, num escopo 
 realista, como trabalha com as três camadas do nosso dia a dia: **banco de dados
 relacional com SQL escrito à mão (Dapper)**, **API REST em C#** e **frontend em React**.
 
-Ele foi dimensionado para caber em **1 a 2 horas por dia ao longo de uma semana**
-(estimamos 6 a 10 horas no total). O **obrigatório** é o caminho completo esperado de
-qualquer candidato(a) — priorize terminá-lo bem; os **bônus** são onde profundidade e
-senioridade aparecem. Um obrigatório sólido sem nenhum bônus é uma entrega digna de
-aprovação.
-
 ---
 
 ## O cenário
